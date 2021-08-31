@@ -19,7 +19,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/blablabliam/LettuceGrowBox">
-    <img src="images/lechuga.jpeg" alt="LettuceBox" width="80" height="80">
+    <img src="images/lechuga.jpg" alt="LettuceBox" width="80" height="80">
   </a>
 
   <h3 align="center">Lettuce Grow Box for NASA Challenge 2019</h3>
@@ -52,8 +52,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 In 2019, NASA and Instructables got together to make a challenge: design and build a grow box for the International Space Station. Having just gained access to a 3D printer at the local MakerSpace, I decided to try my hand at the project using as many 3D printed components as possible. It didn't take long before the project had programmable custom light rings on 3D printed circuit boards, 3D printed fans, and 3D printed housings. In the end, the only parts I couldn't 3D print were the electronic components themselves.
 
