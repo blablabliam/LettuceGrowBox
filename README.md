@@ -99,13 +99,13 @@ Project Link: [https://github.com/blablabliam/LettuceGrowBox](https://github.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/blablabliam/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/blablabliam/LettuceGrowBox.svg?style=for-the-badge
 [contributors-url]: https://github.com/blablabliam/LettuceGrowBox/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/blablabliam/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/blablabliam/LettuceGrowBox.svg?style=for-the-badge
 [forks-url]: https://github.com/blablabliam/LettuceGrowBox/network/members
-[stars-shield]: https://img.shields.io/github/stars/blablabliam/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/blablabliam/LettuceGrowBox.svg?style=for-the-badge
 [stars-url]: https://github.com/blablabliam/LettuceGrowBox/stargazers
-[issues-shield]: https://img.shields.io/github/issues/blablabliam/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/blablabliam/LettuceGrowBox.svg?style=for-the-badge
 [issues-url]: https://github.com/blablabliam/LettuceGrowBox/issues
-[license-shield]: https://img.shields.io/github/license/blablabliam/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/blablabliam/LettuceGrowBox.svg?style=for-the-badge
 [license-url]: https://github.com/blablabliam/LettuceGrowBox/blob/master/LICENSE.txt
